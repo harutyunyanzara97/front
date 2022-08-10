@@ -1,0 +1,45 @@
+{
+
+  "arr": [
+          {
+
+            "img": "img/layer_19.png",
+            "iconClass1": "fa fa-facebook fa-2x olls",
+            "iconClass2": "fa fa-twitter fa-2x olls",
+            "iconClass3": "fa fa-google-plus fa-2x olls",
+            "text": "Bruce Wayne",
+            "txt": "A animi eveniet laborum saepe"
+          },
+
+          {
+
+            "img": "img/aaaa.png",
+            "iconClass1": "fa fa-facebook fa-2x olls",
+            "iconClass2": "fa fa-twitter fa-2x olls",
+            "iconClass3": "fa fa-google-plus fa-2x olls",
+            "text": "Amr Sroure",
+            "txt": "A animi eveniet laborum saepe"
+          },
+          {
+
+            "img": "img/layer_20.png",
+            "iconClass1": "fa fa-facebook fa-2x olls",
+            "iconClass2": "fa fa-twitter fa-2x olls",
+            "iconClass3": "fa fa-google-plus fa-2x olls",
+            "text": "Sarah Doe",
+            "txt": "A animi eveniet laborum saepe"
+          },
+          {
+
+            "img": "img/layer_19.png",
+            "iconClass1": "fa fa-facebook fa-2x olls",
+            "iconClass2": "fa fa-twitter fa-2x olls",
+            "iconClass3": "fa fa-google-plus fa-2x olls",
+            "text": "Johan De",
+            "txt": "A animi eveniet laborum saepe"
+          }
+  ]
+
+
+
+}

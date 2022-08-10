@@ -1,0 +1,26 @@
+{
+  "progressArr": [
+    {
+      "name": "Photoshop",
+      "text": "A animi eveniet laborum saepe",
+      "percent": "50"
+
+    },
+    {
+      "name": "Html",
+      "text": "A animi eveniet laborum saepe",
+      "percent": "100"
+    },
+    {
+      "name": "Php",
+      "text": "A animi eveniet laborum saepe",
+      "percent": "70"
+
+    },
+    {
+      "name": "Wordpress",
+      "text": "A animi eveniet laborum saepe",
+      "percent": "30"
+    }
+  ]
+}

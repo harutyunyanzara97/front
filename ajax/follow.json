@@ -1,0 +1,23 @@
+
+{
+"followArr": [
+{
+    "name": "20000",
+    "iconClass1": "fa fa-facebook fa-2x"
+
+},
+{
+    "name": "20000",
+    "iconClass1": "fa fa-twitter fa-2x"
+},
+  {
+    "name": "20000",
+    "iconClass1": "fa fa-pinterest fa-2x"
+
+  },
+  {
+    "name": "20000",
+    "iconClass1": "fa fa-google-plus fa-2x"
+  }
+]
+}
